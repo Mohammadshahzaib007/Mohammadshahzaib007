@@ -3,9 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadshahzaib007&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadshahzaib007" /> </p>
 
+- 🌱 I’m currently learning **DSA, Software Architecture, Advanced Backend**
+
 - 📝 I regularly write articles on [https://justcodingthings.com/](https://justcodingthings.com/)
 
+- 💬 Ask me about **JavaScript, Front-End**
+
 - 📫 How to reach me **shahzaibmohammad07@gmail.com**
+
+- ⚡ Fun fact **I want to achieve excellence in Software Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
